@@ -1,14 +1,10 @@
 <h1 align="center">
-🕵️‍♂️ SecretCodes
+Android Secret Dialer Code Extraction Tool 🔍
 </h1>
 
 <p align="center">
   <img src="https://github.com/DouglasFreshHabian/SecretCodes/blob/main/Assets/SecretCodes.png" alt="SecretCodes Logo" width="400">
 </p>
-
-<h1 align="center">
-Android Secret Dialer Code Extraction Tool 🔍
-</h1>
 
 **SecretCodes** is a Bash-based utility for enumerating **`android_secret_code`** dialer codes across system and pre-installed applications on Android devices. It leverages **ADB (Android Debug Bridge)** to extract hidden secret codes safely and efficiently from a non-rooted device.
 
@@ -166,7 +162,3 @@ If **SecretCodes™** helps your research or forensic work, consider supporting 
     github.com/DouglasFreshHabian
     freshforensicsllc@tuta.com
 -->
-
-```
-
----
