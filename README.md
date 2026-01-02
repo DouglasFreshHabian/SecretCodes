@@ -121,17 +121,9 @@ Secret_Codes_2025-12-31_12-00-00.txt
 
 ---
 
-### 🧱 Directory Structure
+### 🎬 Demo Time!
 
-```
-SecretCodes/
-├── secretCodes.sh
-├── Assets/
-│   └── SecretCodes.png
-├── outputs/
-│   └── Secret_Codes_2025-12-31_12-00-00.csv
-└── README.md
-```
+[![asciicast](https://asciinema.org/a/765284.svg)](https://asciinema.org/a/765284)
 
 ---
 
